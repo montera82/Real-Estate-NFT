@@ -1,4 +1,4 @@
-# NFT
+# Real Estate NFT
 
 This project demonstrates the use of the ERC721 standard to create an NFT collection which is deployed to Rinkeby and listed on opensea testnet.
 
